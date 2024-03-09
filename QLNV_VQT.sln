@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33529.398
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLNV_VQT", "QLNV_VQT\QLNV_VQT.csproj", "{0334C682-AB1C-43E4-8814-8D92ECCE994B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0334C682-AB1C-43E4-8814-8D92ECCE994B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0334C682-AB1C-43E4-8814-8D92ECCE994B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0334C682-AB1C-43E4-8814-8D92ECCE994B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0334C682-AB1C-43E4-8814-8D92ECCE994B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FAE0DCC-F40C-433B-914C-54D79BEF5A19}
+	EndGlobalSection
+EndGlobal
